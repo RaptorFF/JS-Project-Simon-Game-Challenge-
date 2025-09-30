@@ -5,7 +5,7 @@
 - Create website "Simon Game Challenge" with JS and jQuery
 
 **Links**
-  - Project URL: 
+  - Project URL: https://raptorff.github.io/JS-Project-Simon-Game-Challenge-/
 
 **What I learned**
 - DOM events(Events and Event Listeners);
